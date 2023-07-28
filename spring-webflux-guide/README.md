@@ -1,3 +1,3 @@
 # Spring WebFlux Guide
 
-Spring WebFlux 를 이용한 간단한 Reactive REST Web Application 입니다.
+Annotated Based, Functional Endpoints 두 방식을 구현한 간단한 웹 애플리케이션입니다.
